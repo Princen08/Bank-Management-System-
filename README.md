@@ -4,8 +4,11 @@
 Used Language: C
 
 Used Data Structures:
+
 --> Arrays
+
 --> Hashing
+
 --> Binary Search Tree
 
 Functionality:
