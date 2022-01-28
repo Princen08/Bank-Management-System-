@@ -19,7 +19,7 @@ Functionality:
 
 --> Transfer money in to another account
 
---> View account detials
+--> View account details
 
 --> Change password of user login ID
 
